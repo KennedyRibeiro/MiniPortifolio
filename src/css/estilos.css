@@ -14,6 +14,10 @@ body{
     padding: 30px;
 }
 
+img {
+    width: 150px
+}
+
 .cartao{
     background-color: #070d12;
     width: 370px;
